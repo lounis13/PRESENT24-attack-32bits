@@ -66,14 +66,6 @@ int main(int argc, char const *argv[])
 }
 
 
-
-
-
-
-
-
-
-
 key_list key_list_init ()
 {
     return NULL;
